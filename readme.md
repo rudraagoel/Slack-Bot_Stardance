@@ -6,9 +6,6 @@ I'm Rudra Goel..
 
 I've built this Slack bot as a part of Hack Club Stardance, from the "Make your first Slack bot!" mission!
 
-RADBot is basically a small Slack bot that lets you use custom slash commands to get greetings, random facts, cat facts and jokes!
-
-It uses a couple of external APIs to fetch all the random stuff, and also uses Slack's Socket Mode, so there's no need to host a public HTTP endpoint or anything like that.
 
 ## The commands are as follows:
 
